@@ -1,0 +1,20 @@
+# Core numerical and data-processing dependencies
+numpy>=1.23,<3
+pandas>=1.5,<3
+scipy>=1.9,<2
+scikit-learn>=1.1,<2
+matplotlib>=3.6,<4
+statsmodels>=0.13,<1
+
+# File and image handling
+openpyxl>=3.0,<4
+Pillow>=9,<12
+
+# Interactive execution (optional)
+jupyterlab>=4,<5
+
+# Edge deployment only — install separately on Raspberry Pi 5
+# adafruit-circuitpython-sgp30
+# adafruit-circuitpython-bme680
+# dash>=2.0
+# plotly>=5.0
