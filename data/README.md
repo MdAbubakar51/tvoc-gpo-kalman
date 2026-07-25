@@ -15,7 +15,7 @@ Low-Cost Multi-Sensor IoT Monitoring Platform
 
 **Repository:** Mendeley Data, V1
 
-**DOI:** https://doi.org/10.17632/b5jvs7kykn.1
+**DOI:** https://doi.org/10.17632/b5jvs7kykn.2
 
 **License:** CC BY 4.0
 
@@ -23,7 +23,7 @@ Low-Cost Multi-Sensor IoT Monitoring Platform
 
 ## Download Instructions
 
-1. Go to https://doi.org/10.17632/b5jvs7kykn.1
+1. Go to https://doi.org/10.17632/b5jvs7kykn.2
 2. Open the **Research_Subsets** folder
 3. Download `TVOC_Filtering_Subset.csv`
 4. Place it in this `data/` directory
