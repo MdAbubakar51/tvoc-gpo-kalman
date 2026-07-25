@@ -21,7 +21,7 @@ anomaly detection.
 > with Gaussian Process Hyperparameter Optimisation:
 > A 15-Day Longitudinal Validation Study*
 >
-> Md Abubakar Siddique et al., IMSE, The University of Texas at El Paso
+> Md Abubakar Siddique et al., The University of Texas at El Paso
 
 A journal DOI and Zenodo archive DOI will be added here once the
 manuscript is accepted and the code release is finalised.
@@ -125,7 +125,7 @@ pip install -r requirements.txt
 ## Quick Start
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/tvoc-gpo-kalman.git
+git clone https://github.com/MdAbubakar51/tvoc-gpo-kalman.git
 cd tvoc-gpo-kalman
 pip install -r requirements.txt
 ```
@@ -144,7 +144,7 @@ For interactive cell-by-cell execution, open in JupyterLab. Each
 jupyter lab
 ```
 
-The GPO optimisation (Cell 5) and 10-fold cross-validation (Cell 9)
+The GPO optimization (Cell 5) and 10-fold cross-validation (Cell 9)
 are the most computationally intensive stages.
 
 ---
@@ -156,7 +156,7 @@ are the most computationally intensive stages.
 3. Missing-value handling and saturation artifact capping
 4. Descriptive and autocorrelation analysis
 5. Filter function definitions
-6. **GPO optimisation of Kalman parameters** (Cell 5)
+6. **GPO optimization of Kalman parameters** (Cell 5)
 7. Full-dataset filtering with all methods
 8. Signal-quality and environmental-coupling assessment
 9. **10-fold time-series cross-validation** (Cell 9)
@@ -179,21 +179,10 @@ package versions. Tag the exact commit used for manuscript submission.
 
 ---
 
-## Project Status
+## Status
 
-This repository contains research code associated with a manuscript
-currently in preparation. Code and results may change before the
-final public release.
-
-**Before archiving a versioned release:**
-
-1. Verify the script runs to completion from a clean environment
-2. Confirm the Mendeley DOI resolves: https://doi.org/10.17632/b5jvs7kykn.1
-3. Remove any private paths, credentials, or local system details
-4. Confirm every result is reproducible from the released code
-5. Create a versioned GitHub release (e.g., `v1.0.0`)
-6. Archive that release through Zenodo
-7. Add the Zenodo DOI badge to this README
+Research code associated with a manuscript currently in preparation.
+A versioned release and Zenodo archive will be created upon acceptance.
 
 ---
 
