@@ -75,11 +75,11 @@ only the analysis code; the data file must be downloaded separately.
 **Mendeley Data record:**
 > Siddique, Md Abubakar (2026). *Longitudinal Indoor Air Quality Dataset
 > Collected Using a Low-Cost Multi-Sensor IoT Monitoring Platform.*
-> Mendeley Data, V1. https://doi.org/10.17632/b5jvs7kykn.1
+> Mendeley Data, V1. https://doi.org/10.17632/b5jvs7kykn.2
 
 **To use the dataset with this code:**
 
-1. Go to https://doi.org/10.17632/b5jvs7kykn.1
+1. Go to https://doi.org/10.17632/b5jvs7kykn.2
 2. Open the `Research_Subsets` folder
 3. Download `TVOC_Filtering_Subset.csv`
 4. Place the file in the `data/` directory of this repository
@@ -202,7 +202,7 @@ Commit: <insert commit hash>
 ```text
 Siddique, Md Abubakar (2026). Longitudinal Indoor Air Quality Dataset
 Collected Using a Low-Cost Multi-Sensor IoT Monitoring Platform.
-Mendeley Data, V1. https://doi.org/10.17632/b5jvs7kykn.1
+Mendeley Data, V2. https://doi.org/10.17632/b5jvs7kykn.2
 ```
 
 ### Article
