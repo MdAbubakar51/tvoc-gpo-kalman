@@ -13,7 +13,7 @@ Low-Cost Multi-Sensor IoT Monitoring Platform
 
 **Author:** Siddique, Md Abubakar (2026)
 
-**Repository:** Mendeley Data, V1
+**Repository:** Mendeley Data, V2
 
 **DOI:** https://doi.org/10.17632/b5jvs7kykn.2
 
@@ -78,5 +78,5 @@ When using this dataset, cite:
 ```text
 Siddique, Md Abubakar (2026). Longitudinal Indoor Air Quality Dataset
 Collected Using a Low-Cost Multi-Sensor IoT Monitoring Platform.
-Mendeley Data, V1. https://doi.org/10.17632/b5jvs7kykn.1
+Mendeley Data, V2. https://doi.org/10.17632/b5jvs7kykn.2
 ```
