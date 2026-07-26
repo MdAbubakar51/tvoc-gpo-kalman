@@ -4,7 +4,7 @@
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Status: Research Code](https://img.shields.io/badge/status-research%20code-orange.svg)](#project-status)
 [![Dataset](https://img.shields.io/badge/Dataset-Mendeley%20Data-blue.svg)](https://doi.org/10.17632/b5jvs7kykn.1)
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.21590031).
 ## Overview
 
 This repository provides the analysis and deployment code for a
