@@ -23,8 +23,8 @@ anomaly detection.
 >
 > Md Abubakar Siddique et al., The University of Texas at El Paso
 
-A journal DOI and Zenodo archive DOI will be added here once the
-manuscript is accepted and the code release is finalised.
+A journal DOI will be added here once the
+manuscript is accepted and published.
 
 ---
 
@@ -186,12 +186,12 @@ A versioned release and Zenodo archive will be created upon acceptance.
 
 ## Citation
 
-### Software (before Zenodo DOI is available)
+### Software
 
 ```text
 Siddique, M.A. et al. (2026). tvoc-gpo-kalman: GPO-tuned Kalman
-filtering for indoor TVOC signal enhancement [Computer software].
-GitHub. https://github.com/YOUR-USERNAME/tvoc-gpo-kalman
+filtering for indoor TVOC signal enhancement (v1.0.0) [Computer software].
+Zenodo. https://doi.org/10.5281/zenodo.21590031
 Commit: <insert commit hash>
 ```
 
