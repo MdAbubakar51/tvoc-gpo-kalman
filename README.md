@@ -61,8 +61,6 @@ tvoc-gpo-kalman/
 │   ├── fig5_metrics_summary.png
 │   ├── fig6_longitudinal_analysis.png
 │   └── fig7_anomaly_detection.png
-└── outputs/
-    └── (generated tables and results — not committed)
 ```
 
 ---
@@ -75,7 +73,7 @@ only the analysis code; the data file must be downloaded separately.
 **Mendeley Data record:**
 > Siddique, Md Abubakar (2026). *Longitudinal Indoor Air Quality Dataset
 > Collected Using a Low-Cost Multi-Sensor IoT Monitoring Platform.*
-> Mendeley Data, V1. https://doi.org/10.17632/b5jvs7kykn.2
+> Mendeley Data, V2. https://doi.org/10.17632/b5jvs7kykn.2
 
 **To use the dataset with this code:**
 
