@@ -192,7 +192,6 @@ A versioned release and Zenodo archive will be created upon acceptance.
 Siddique, M.A. et al. (2026). tvoc-gpo-kalman: GPO-tuned Kalman
 filtering for indoor TVOC signal enhancement (v1.0.0) [Computer software].
 Zenodo. https://doi.org/10.5281/zenodo.21590031
-Commit: <insert commit hash>
 ```
 
 ### Dataset
