@@ -4,7 +4,7 @@
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Status: Research Code](https://img.shields.io/badge/status-research%20code-orange.svg)](#project-status)
 [![Dataset](https://img.shields.io/badge/Dataset-Mendeley%20Data-blue.svg)](https://doi.org/10.17632/b5jvs7kykn.2)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21590031.svg)](https://doi.org/10.5281/zenodo.21590031)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21636383.svg)](https://doi.org/10.5281/zenodo.21636383)
 ## Overview
 
 This repository provides the analysis and deployment code for a
@@ -181,9 +181,7 @@ package versions. Tag the exact commit used for manuscript submission.
 ### Software
 
 ```text
-Siddique, M.A. et al. (2026). tvoc-gpo-kalman: GPO-tuned Kalman
-filtering for indoor TVOC signal enhancement (v1.0.0) [Computer software].
-Zenodo. https://doi.org/10.5281/zenodo.21590031
+Siddique, M. A. (2026). tvoc-gpo-kalman: GPO-Tuned Kalman Filtering for Indoor TVOC Signal Enhancement (Version v1.0.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21636383
 ```
 
 ### Dataset
