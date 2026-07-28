@@ -17,9 +17,7 @@ anomaly detection.
 
 **Associated manuscript (under preparation):**
 
-> *Enhancement of Indoor TVOC Measurements Using Kalman Filtering
-> with Gaussian Process Hyperparameter Optimisation:
-> A 15-Day Longitudinal Validation Study*
+> *Gaussian Process–Optimized Kalman Filtering for Reliable Indoor TVOC Measurements: A 15-Day Longitudinal Validation Study*
 >
 > Md Abubakar Siddique et al., The University of Texas at El Paso
 
@@ -177,12 +175,6 @@ package versions. Tag the exact commit used for manuscript submission.
 
 ---
 
-## Status
-
-Research code associated with a manuscript currently in preparation.
-A versioned release and Zenodo archive will be created upon acceptance.
-
----
 
 ## Citation
 
