@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "tvoc-gpo-kalman: GPO-Tuned Kalman Filtering for Indoor TVOC Signal Enhancement"
+version: v1.0.1
+date-released: 2026-07-27
+authors:
+  - family-names: Siddique
+    given-names: Md Abubakar
+    affiliation: "Department of Aerospace and Mechanical Engineering, The University of Texas at El Paso"
+    orcid: "https://orcid.org/0000-0003-4157-9816"
+repository-code: "https://github.com/MdAbubakar51/tvoc-gpo-kalman"
+doi: 10.5281/zenodo.21590031
+license: MIT
+keywords:
+  - Kalman filter
+  - Gaussian process optimization
+  - TVOC
+  - indoor air quality
+  - edge computing
+  - anomaly detection
