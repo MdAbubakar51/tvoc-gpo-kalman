@@ -52,22 +52,7 @@ Low-Cost Multi-Sensor IoT Monitoring Platform
   removed in Cell 2 of the analysis script using `dropna(subset=['Temperature (C)'])`.
 - TVOC values of 60,000 ppb are SGP30 firmware saturation artifacts
   and are forward-filled in preprocessing.
-- Gas Resistance values of 1.02E+08 Ohms (102,400,000) represent
-  the BME688 clean-air ceiling — these are valid readings, not errors.
-
----
-
-## Complete Dataset
-
-The **Master_Dataset** folder on the same Mendeley record contains
-`air_quality_log.csv` with all 13 sensor channels across the full
-16 calendar days of deployment. This master file supports two
-additional companion studies:
-
-| Study | Subset used |
-|---|---|
-| PM2.5 adaptive control | PM2.5, Temperature, Humidity, Pressure, Gas Resistance |
-| IAQ classification | All 13 columns, Days 2–10 only |
+- Gas Resistance values of 1.024×10⁸ Ω (102,400,000 Ω) recorded on Days 1–2 (34,004 samples, 100% of those days) represent the BME688 hardware register saturation ceiling, not a valid gas measurement.
 
 ---
 
